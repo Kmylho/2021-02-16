@@ -2,7 +2,10 @@ package punto_2;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
-
+/**
+ *
+ * @author Kmylho https://linktr.ee/Kmylho
+ */
 public class Punto2 {
 
     public static void main(String[] args) {
