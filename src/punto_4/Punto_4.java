@@ -2,6 +2,10 @@ package punto_4;
 
 import java.util.Scanner;
 
+/**
+ *
+ * @author Kmylho https://linktr.ee/Kmylho
+ */
 public class Punto_4 {
     static Scanner reader = new Scanner(System.in);
 

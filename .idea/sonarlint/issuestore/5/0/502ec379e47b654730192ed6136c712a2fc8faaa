@@ -1,0 +1,9 @@
+
+Z
+java:S2589"8Remove this expression which always evaluates to "false"(Ê›ëâøÿÿÿÿ8ºœéÉ/
+P
+java:S1121".Extract the assignment out of this expression.(Ê›ëâøÿÿÿÿ8ºœéÉ/
+_
+java:S1854"=Remove this useless assignment to local variable "comprobar".(Ê›ëâøÿÿÿÿ8ºœéÉ/
+_
+java:S1854"=Remove this useless assignment to local variable "comprobar".(ûù‚…üÿÿÿÿ8ì½êÉ/
